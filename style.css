@@ -1,0 +1,17 @@
+h1,h2{
+    color:lightcoral ;
+}
+#menu{
+    color: blue;
+    width:400px;
+}
+@media(max-width : 499px){
+    #menu{ width : 350px}
+    #movie{height : 200}
+}
+h3{
+    color: firebrick;
+}
+.info::selection{
+    color: lightseagreen;
+}

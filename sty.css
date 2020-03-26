@@ -1,0 +1,16 @@
+h1, h2 {
+  color: lightcoral; }
+
+#table {
+  background-color: lightcoral; }
+
+#table {
+  padding-left: 30%;
+  border: 5px solid black;
+  border-collapse: collapse;
+  margin: 100; }
+  #table th {
+    border: 2px solid black;
+    width: 50%; }
+
+/*# sourceMappingURL=sty.css.map */
